@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860358888134",
+    "firebase_url": "https://deek-brew-crew.firebaseio.com",
+    "project_id": "deek-brew-crew",
+    "storage_bucket": "deek-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860358888134:android:09ac5c6829bbf5827de5c7",
+        "android_client_info": {
+          "package_name": "com.deek.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860358888134-rvdpmbr486tl2l1tutu5s136kde84hb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBedAqOsQwKSR3Xl6Rv9g6dxZ_t314tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860358888134-rvdpmbr486tl2l1tutu5s136kde84hb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
